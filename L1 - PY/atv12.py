@@ -1,6 +1,6 @@
-razao = int(input("Digite a razão da PA: "))
+Razao = int(input("Digite a razão da PA: "))
 primeirotermo = int(input("Digite o valor do primeiro termo da PA: "))
 
-decimotermo = primeirotermo + 9 * razao
+Decimotermo = Primeirotermo + 9 * Razao
 
-print("Décimo termo:", decimotermo)
+print("Décimo termo:", Decimotermo)

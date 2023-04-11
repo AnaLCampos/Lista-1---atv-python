@@ -1,8 +1,8 @@
 A = int(input("Digite o valor de A: "))
 B = int(input("Digite o valor de B: "))
 
-aux = A
+Aux = A
 A = B
-B = aux
+B = Aux
 
-print("Após troca: A=", A, "B=", B)
+print("após troca: A=", A, "B=", B)

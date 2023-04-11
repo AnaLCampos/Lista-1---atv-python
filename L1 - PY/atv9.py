@@ -1,6 +1,6 @@
-base = float(input("Digite a base do triângulo: "))
-altura = float(input("Digite a altura do triângulo: "))
+Base = float(input("Digite a base do triângulo: "))
+Altura = float(input("Digite a altura do triângulo: "))
 
-area = (base * altura) / 2
+Area = (Base * Altura) / 2
 
-print("Área:", area)
+print("Área:", Area)

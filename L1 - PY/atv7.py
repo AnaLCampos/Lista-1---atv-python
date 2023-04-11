@@ -1,8 +1,8 @@
-base = float(input("Digite a base do retângulo: "))
-altura = float(input("Digite a altura do retângulo: "))
+Base = float(input("Digite a base do retângulo: "))
+Altura = float(input("Digite a altura do retângulo: "))
 
-perimetro = 2 * (base + altura)
-area = base * altura
+Perimetro = 2 * (Base + Altura)
+Area = Base * Altura
 
-print("Perímetro:", perimetro)
-print("Área:", area)
+print("Perímetro:", Perimetro)
+print("Área:", Area)
